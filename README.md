@@ -22,7 +22,7 @@ As a data analyst or a data scientist, you spend most of the time cleaning your 
 ### SKILLS DEMONSTRATION 
 In the course of this project, I was able to show important data-cleaning processes. 
 
-- DATA SOURCING: This is the process of acquiring your data either from the cloud storage , from the internet or from your portable storage and machines
+- DATA SOURCING: This is the process of acquiring your data either from the cloud storage, from the internet or from your portable storage and machines
 - DATA HANDLING: This is the process of importing your flat file into the notebook. 
 - DATA PREPROCESSING: This is a process of skimming through the data, looking at the characteristics, and identifying the errors in the data. 
 
@@ -48,7 +48,7 @@ These are the processes I carried out in the course of this project.
 
 ---
 
-### See the full details of my project [here](data cleaning with python .ipynb)
+Kindly check the full details of my project [here](data cleaning with python .ipynb)
 
 ---
 
