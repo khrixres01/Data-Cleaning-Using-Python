@@ -48,7 +48,7 @@ These are the processes I carried out in the course of this project.
 
 ---
 
-Kindly check the full details of my project [here](https://github.com/khrixres01/Data-Cleaning-Using-Python/blob/main/data%20cleaning%20with%20python%20.ipynb)
+Kindly check the jupyter notebook for this project [here](https://github.com/khrixres01/Data-Cleaning-Using-Python/blob/main/data%20cleaning%20with%20python%20.ipynb)
 
 ---
 
